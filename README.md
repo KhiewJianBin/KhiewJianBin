@@ -1,15 +1,15 @@
 ## Welcome
 
-### What I Do 💬
+### What I Do 💬💬
 I do programming. I explore algorithms and implement them in ⚡Unity⚡
 
-### What I Like ⚡
+### What I Like ⚡⚡
 I have a huge interest in interactive graphics/visuals/shaders VFX. Most of the time, this means Games
 
-### What I Want 🤔
+### What I Want 🤔🤔
 I want to learn everything on how things work, especialy on the things i like
 
-## Github Repos 🔭
+## Github Repos 🔭🔭
 - https://github.com/KhiewJianBin - Personal Playground
 - https://github.com/EverythingASIM - Algorithm Projects
 - https://github.com/GDAsim - Gamedev Projects
